@@ -6,5 +6,6 @@ El directorio inc contiene los archivos de cabecera .h
 El directorio src contiene los archivos de código fuente .cpp
 
 El archivo src\main.cpp contiene el código de la aplicación principal
+
 Las librerías Restaurante, Pizza y Pollo contienen el código de las clases utilizadas en la función main
 
